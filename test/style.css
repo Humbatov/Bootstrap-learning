@@ -1,0 +1,11 @@
+.test{
+    width: 200px;
+    height: 100px;
+    background: red;
+    display: block;
+    margin: 10px;
+}
+
+.form-control{
+    height: 50px;
+}
